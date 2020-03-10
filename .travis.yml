@@ -1,0 +1,4 @@
+language: python
+os: linux
+dist: RedHat Enterprise Linux
+arch: amd64
